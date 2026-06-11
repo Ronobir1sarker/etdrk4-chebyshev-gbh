@@ -6,6 +6,8 @@ Reference implementation for the paper
 > generalized Burgers–Huxley equation: machine-precision benchmarks and a
 > corrected exact solution," *Applied Mathematics Letters*, 2026.
 
+A ready-to-run demo notebook is in notebooks/gbh_demo.ipynb](notebooks/gbh_demo.ipynb).
+
 ## What this code does
 
 Solves the generalized Burgers–Huxley (gBH) equation
